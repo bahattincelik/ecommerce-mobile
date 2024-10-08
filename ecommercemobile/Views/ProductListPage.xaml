@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+                 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                x:Class="ecommercemobile.Views.ProductListPage">
+
+
+    <VerticalStackLayout>
+        <Label Text="Available Products"
+               FontSize="24"
+               HorizontalOptions="Center"
+               VerticalOptions="Start"
+               Padding="10"/>
+        <CollectionView x:Name="ProductsCollectionView"
+                        VerticalOptions="FillAndExpand">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Padding="10" ColumnSpacing="10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition  Width="100"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Image Source="{Binding ImageUrl}" Grid.Column="0"
+                               WidthRequest="80" HeightRequest="80"/>
+                        <VerticalStackLayout Grid.Column="1">
+                            <Label Text="{Binding Name}"
+                                   FontAttributes="Bold"
+                                   FontSize="18"/>
+                            <Label Text="{Binding Price, StringFormat='Price: {0:C}'}" />
+
+                        </VerticalStackLayout>
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </VerticalStackLayout>
+
+
+
+</ContentPage>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

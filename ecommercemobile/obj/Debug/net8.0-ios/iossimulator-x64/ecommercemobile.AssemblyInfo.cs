@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ecommercemobile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+edf6e77764e2beb18ae6501102ea215e63614ef2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ecommercemobile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ecommercemobile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

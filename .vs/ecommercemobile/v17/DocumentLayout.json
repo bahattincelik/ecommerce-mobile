@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projekte\\ECommerceProjekt\\ecommercemobile\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4AF6CF-DD71-455D-987F-AB4F9B2D8B1F}|ecommercemobile\\ecommercemobile.csproj|c:\\projekte\\ecommerceprojekt\\ecommercemobile\\ecommercemobile\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4AF6CF-DD71-455D-987F-AB4F9B2D8B1F}|ecommercemobile\\ecommercemobile.csproj|solutionrelative:ecommercemobile\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4AF6CF-DD71-455D-987F-AB4F9B2D8B1F}|ecommercemobile\\ecommercemobile.csproj|c:\\projekte\\ecommerceprojekt\\ecommercemobile\\ecommercemobile\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F4AF6CF-DD71-455D-987F-AB4F9B2D8B1F}|ecommercemobile\\ecommercemobile.csproj|solutionrelative:ecommercemobile\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4AF6CF-DD71-455D-987F-AB4F9B2D8B1F}|ecommercemobile\\ecommercemobile.csproj|c:\\projekte\\ecommerceprojekt\\ecommercemobile\\ecommercemobile\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4AF6CF-DD71-455D-987F-AB4F9B2D8B1F}|ecommercemobile\\ecommercemobile.csproj|solutionrelative:ecommercemobile\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4AF6CF-DD71-455D-987F-AB4F9B2D8B1F}|ecommercemobile\\ecommercemobile.csproj|c:\\projekte\\ecommerceprojekt\\ecommercemobile\\ecommercemobile\\views\\productlistpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{9F4AF6CF-DD71-455D-987F-AB4F9B2D8B1F}|ecommercemobile\\ecommercemobile.csproj|solutionrelative:ecommercemobile\\views\\productlistpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4AF6CF-DD71-455D-987F-AB4F9B2D8B1F}|ecommercemobile\\ecommercemobile.csproj|c:\\projekte\\ecommerceprojekt\\ecommercemobile\\ecommercemobile\\views\\productlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4AF6CF-DD71-455D-987F-AB4F9B2D8B1F}|ecommercemobile\\ecommercemobile.csproj|solutionrelative:ecommercemobile\\views\\productlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4AF6CF-DD71-455D-987F-AB4F9B2D8B1F}|ecommercemobile\\ecommercemobile.csproj|c:\\projekte\\ecommerceprojekt\\ecommercemobile\\ecommercemobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F4AF6CF-DD71-455D-987F-AB4F9B2D8B1F}|ecommercemobile\\ecommercemobile.csproj|solutionrelative:ecommercemobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +43,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Projekte\\ECommerceProjekt\\ecommercemobile\\ecommercemobile\\AppShell.xaml",
+              "RelativeDocumentMoniker": "ecommercemobile\\AppShell.xaml",
+              "ToolTip": "C:\\Projekte\\ECommerceProjekt\\ecommercemobile\\ecommercemobile\\AppShell.xaml",
+              "RelativeToolTip": "ecommercemobile\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-07T14:28:13.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Projekte\\ECommerceProjekt\\ecommercemobile\\ecommercemobile\\Views\\ProductListPage.xaml.cs",
+              "RelativeDocumentMoniker": "ecommercemobile\\Views\\ProductListPage.xaml.cs",
+              "ToolTip": "C:\\Projekte\\ECommerceProjekt\\ecommercemobile\\ecommercemobile\\Views\\ProductListPage.xaml.cs",
+              "RelativeToolTip": "ecommercemobile\\Views\\ProductListPage.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:17:10.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductListPage.xaml",
+              "DocumentMoniker": "C:\\Projekte\\ECommerceProjekt\\ecommercemobile\\ecommercemobile\\Views\\ProductListPage.xaml",
+              "RelativeDocumentMoniker": "ecommercemobile\\Views\\ProductListPage.xaml",
+              "ToolTip": "C:\\Projekte\\ECommerceProjekt\\ecommercemobile\\ecommercemobile\\Views\\ProductListPage.xaml",
+              "RelativeToolTip": "ecommercemobile\\Views\\ProductListPage.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-01T09:48:38.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Projekte\\ECommerceProjekt\\ecommercemobile\\ecommercemobile\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ecommercemobile\\Models\\Product.cs",
+              "ToolTip": "C:\\Projekte\\ECommerceProjekt\\ecommercemobile\\ecommercemobile\\Models\\Product.cs",
+              "RelativeToolTip": "ecommercemobile\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:44:22.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Projekte\\ECommerceProjekt\\ecommercemobile\\ecommercemobile\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ecommercemobile\\MainPage.xaml",
+              "ToolTip": "C:\\Projekte\\ECommerceProjekt\\ecommercemobile\\ecommercemobile\\MainPage.xaml",
+              "RelativeToolTip": "ecommercemobile\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-01T09:22:50.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Projekte\\ECommerceProjekt\\ecommercemobile\\ecommercemobile\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ecommercemobile\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Projekte\\ECommerceProjekt\\ecommercemobile\\ecommercemobile\\MainPage.xaml.cs",
+              "RelativeToolTip": "ecommercemobile\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:19:27.966Z",
+              "EditorCaption": ""
             }
           ]
         }
